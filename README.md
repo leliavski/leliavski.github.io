@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Alexei Leliavski
 
-You can use the [editor on GitHub](https://github.com/leliavski/leliavski.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Bio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Originally from Minsk, Belarus, I graduated from International Sakharov Environmental University and then worked half-time in a [clinical center](https://oncology.by/en/laboratories) studying human immunology. I did my doctorate project in [Henrik Oster](https://www.neurobio.uni-luebeck.de/en/staff/henrik-oster.html)'s group at Max Planck Institute for Biophysical Chemistry in Göttingen, and later at the University of Lübeck, focusing on circadian rhythms of adrenal hormones, and contributed to studies of the circadian clock in T cells. I went back to immunology during my postdoctoral research in [Marc Ehlers](https://www.uksh.de/Ernaehrungsmedizin_Luebeck/Wissenschaft/AG+Immunologie+und+Glykoanalytik.html)' group where I studied B cells and mechanisms of antibody glycosylation. Currently I am a postdoctoral fellow in the lab of [Guru Krishnamoorthy](https://www.biochem.mpg.de/krishnamoorthy) at Max Planck Institute of Biochemistry in Munich, studying a role of B cells in multiple sclerosis using animal models of autoimmune central nervous system pathology.
 
-### Markdown
+## Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My papers in [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Leliavski%20A%5BAuthor%5D)
 
-```markdown
-Syntax highlighted code block
+## Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leliavski/leliavski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- E-mail: alexei.leliavski@gmail.com
+- [Researchgate](https://www.researchgate.net/profile/Alexei_Leliavski)
+- [Linkedin](https://www.linkedin.com/in/alexei-leliavski-450a003b/)
