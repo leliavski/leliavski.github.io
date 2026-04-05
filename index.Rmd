@@ -1,7 +1,7 @@
 ---
-title: "Bio"
-author: "Alexei Leliavski"
-date: "2026-04-05"
+#title: "Bio"
+#author: "Alexei Leliavski"
+#date: "2026-04-05"
 output: html_document
 ---
 
@@ -19,24 +19,32 @@ Most recently, I have transitioned to industry, where I led a research team with
 
 Please refer to my [CV](CV.html) for more details.
 
-## Publications
+#
+
+### Publications
 
 - [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Leliavski%20A%5BAuthor%5D)
 - [Google Scholar](https://scholar.google.de/citations?user=7vIaRk0AAAAJ&hl=en&oi=ao)
 - [My thesis](docs/Leliavski_2013_thesis.pdf)
 
-## Social
+#
+
+### Social
 
 - [Linkedin](https://www.linkedin.com/in/alexei-leliavski/)
 - [Github](https://github.com/leliavski/)
 - [Researchgate](https://www.researchgate.net/profile/Alexei_Leliavski)
 - [ORCID](https://orcid.org/0000-0003-0279-9226)
 
-## My projects
+#
+
+### My projects
 
 Under construction.
 
-## Contact
+#
+
+### Contact
 
 Please contact me via Linkedin or by email.
 My address is my name dot surname at gmail dot com.

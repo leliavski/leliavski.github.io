@@ -1,7 +1,7 @@
 ---
-title: "CV"
-author: "Alexei Leliavski"
-date: "2026-04-05"
+#title: "CV"
+#author: "Alexei Leliavski"
+#date: "2026-04-05"
 output: html_document
 ---
 
@@ -14,6 +14,8 @@ Immunology | Cancer immunotherapy | Method development | Computational Biology
 | <a href="https://www.linkedin.com/in/alexei-leliavski/">LinkedIn</a>
 | <a href="https://github.com/leliavski/">Github</a>
 </div>
+
+#
 
 ## Expertise
 
@@ -49,6 +51,7 @@ Co-developed a company’s data management model and implemented a cloud-based d
   
 Solid understanding of regulatory requirements (a [GMP course certificate](https://gmp-kurs.de/de/zertifikat-verifizieren/?code=6NDMND9FTP)); contributed to preparation and review of regulatory documents for CTA submissions.
 
+#
 
 ## Professional experience
 
@@ -64,6 +67,8 @@ Solid understanding of regulatory requirements (a [GMP course certificate](https
 
 `2008–2009`	Research assistant, Belarusian Research Center for Pediatric Oncology, Hematology & Immunology, Minsk region, Belarus
 
+#
+
 ## Education
 
 `2010–2014`	PhD (Dr. rer. nat.) in biology (magna cum laude)
@@ -71,6 +76,8 @@ University of Göttingen, Germany
 
 `2002–2008`	Diploma and M.Sc. degrees in immunology (cum laude)
 International Sakharov Environmental University, Minsk, Belarus
+
+#
 
 ## Professional development
 
@@ -87,6 +94,8 @@ Leadership and Management Skills Course for Junior Leaders, hfp consulting, 2022
 Foundations of Project Management, Google, 2021
 
 Drug Development Product Management Specialization, UC San Diego, 2021
+
+#
 
 ## Selected publications
 

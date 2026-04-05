@@ -1,0 +1,11 @@
+/* Add space above all headers (h1, h2, h3) */
+h1, h2, h3, h4 {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+/* Increase spacing between paragraphs */
+p {
+  margin-bottom: 20px;
+  line-height: 1.8; /* This makes the lines of text less crowded */
+}
