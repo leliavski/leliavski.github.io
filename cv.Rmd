@@ -1,0 +1,110 @@
+---
+title: "CV"
+author: "Alexei Leliavski"
+date: "2026-04-05"
+output: html_document
+---
+
+# Alexei Leliavski
+
+Immunology | Cancer immunotherapy | Method development | Computational Biology
+
+<div id="webaddress">
+<a href="alexei.leliavski@gmail.com">Email</a>
+| <a href="https://www.linkedin.com/in/alexei-leliavski/">LinkedIn</a>
+| <a href="https://github.com/leliavski/">Github</a>
+</div>
+
+## Expertise
+
+Translational research in academia (12+ years; PhD in life sciences) and industry (4+ year) with broad scientific expertise (immunology, endocrinology, oncology).
+
+Team coordination, leadership and mentoring in a matrix environment (up to 6 direct reports).
+
+Proven ability to manage complex projects from inception to completion in industry environment (design, planning, documentation, monitoring, reporting).
+
+Multiple cross-functional collaborations and stakeholder management across R&D and preclinical departments to support a [successful CTA submission](https://www.t-knife.com/news/press-releases/03-03-26/); worked with external service providers and CROs.
+
+Broad biomedical expertise:
+  - Cancer immunotherapy and cell therapy (TCR-T, CAR-T), tumor biology, TCR discovery and characterization, tumor target identification and prioritization;
+  - B cell biology, antibody glycosylation, and engineering of antibody-based therapeutics;
+  - Autoimmune disorders and neuroinflammation (multiple sclerosis);
+  - Circadian rhythms and clocks, their role in regulation of adrenal function and behavioral stress responses.
+
+Strong [publication record](https://scholar.google.de/citations?user=7vIaRk0AAAAJ&hl=en&oi=ao) (20+ research papers, 5 first-author papers; h-index = 17); expertise in technical writing (SOPs, work instructions) and reporting.
+
+Leading projects in preclinical research (TCR-T cell therapies against solid tumors), with focus on drug discovery and development in a biotech startup ([Leliavski et al. 2022 AACR](docs/Leliavski_2022_AACR_poster.pdf)).
+  
+Development of innovation strategies in industry’s R&D settings; assay and technology development and optimization (cell-based and immunological assays).
+  
+Extensive experience with immunological methods (flow cytometry, ELISA), molecular biology (qPCR, cloning) and gene editing (retroviral vectors, CRISPR/Cas9), biochemical methods, cell and tissue culture, live-cell imaging.
+  
+Strong hands-on experience with in vivo experiments and animal models in immunology and inflammation, both in academic and industry settings (15+ years); mouse genetic models, immunizations, adoptive transfer, behavioral tests.
+  
+Hands-on experience in data processing, statistical data analysis, visualization and interpretation, documentation and reporting (Prism, R/Bioconductor).
+  
+Expertise in leveraging multi-omics data sets and generating data-driven insights for target identification and drug discovery projects ([Kraus et al. 2025 AACR](docs/Kraus_2025_ESGCT_poster.pdf)).
+  
+Co-developed a company’s data management model and implemented a cloud-based data documentation platform across R&D department.
+  
+Solid understanding of regulatory requirements (a [GMP course certificate](https://gmp-kurs.de/de/zertifikat-verifizieren/?code=6NDMND9FTP)); contributed to preparation and review of regulatory documents for CTA submissions.
+
+
+## Professional experience
+
+`2022–2025`	Team lead TCR discovery, T-knife GmbH, Berlin, Germany
+
+`2021–2022`	Senior scientist TCR discovery, T-knife GmbH, Berlin, Germany
+
+`2018–2021`	Postdoctoral fellow, Neuroinflammation & Mucosal Immunology Group (Guru Krishnamoorthy), Max Planck Institute of Biochemistry, Munich, Germany
+
+`2014–2018`	Postdoctoral fellow, Immunology & Glycoanalysis Group (Marc Ehlers), Institute of Nutrition Medicine, University of Lübeck, Germany
+
+`2010–2014`	Graduate researcher, Chronophysiology Group (Henrik Oster), Max Planck Institute of Biophysical Chemistry, Göttingen, and University of Lübeck, Germany
+
+`2008–2009`	Research assistant, Belarusian Research Center for Pediatric Oncology, Hematology & Immunology, Minsk region, Belarus
+
+## Education
+
+`2010–2014`	PhD (Dr. rer. nat.) in biology (magna cum laude)
+University of Göttingen, Germany
+
+`2002–2008`	Diploma and M.Sc. degrees in immunology (cum laude)
+International Sakharov Environmental University, Minsk, Belarus
+
+## Professional development
+
+GMP basics course, 2026
+
+Design of Experiments, Arizona State University, 2026
+
+AWS Cloud Practitioner Essentials, AWS, 2025
+
+Analytical Method Validation for Biologics, Biopharmaceuticals and Other Therapeutics, CfPIE, 2025
+
+Leadership and Management Skills Course for Junior Leaders, hfp consulting, 2022
+
+Foundations of Project Management, Google, 2021
+
+Drug Development Product Management Specialization, UC San Diego, 2021
+
+## Selected publications
+
+Kraus G, Heichenko M, Immisch L, Khoenkhoen S, Kieback E, Leliavski A\*, Poncette L\* (2025) Discovery of novel solid tumor targets combining a multi-omics based computational workflow and in vivo immunogenicity screening in T-knife's MyT platform. European Society of Gene and Cell Therapy (ESGCT) Congress. (\* co-senior authors; [poster](https://www.t-knife.com/file.cfm/44/docs/t-knife_esgct_2025_poster_vf.pdf)).
+
+Janakiraman M, Leliavski A, Varadarajulu J, Jenne D, Krishnamoorthy G. (2023) An engineered Fc fusion protein that targets antigen-specific T cells and autoantibodies mitigates autoimmune disease. [J Neuroinflammation, 20(1):291](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02974-9).
+
+Poncette L, Kieback E, Oduro J, Dhamodaran A, Knackstedt L, Leliavski L, Blankenstein T (2023) Antigen recognizing construct that binds specific peptide with determinable affinity and T cell receptor having antigenic specificity for KRAS as well as corresponding nucleic acid sequence, vector, host cell, pharmaceutical composition and kit. [Patent WO2023139257A1](https://patents.google.com/patent/WO2023139257A1/fr).
+
+Leliavski A, Knackstedt L, Oduro J, Selck C, Salei N, Kraus G, et al. (2022) Generating optimal-affinity T cell receptors targeting the shared neoantigen KRASG12V using the humanized TCR transgenic mouse platform HuTCR. American Association for Cancer Research (AACR) Annual Meeting ([poster](https://www.t-knife.com/file.cfm/47/docs/t-knife_aacr2022_poster_3052.pdf)).
+
+Na SY, Janakiraman M, Leliavski A, Krishnamoorthy G (2021) High salt diet suppresses autoimmune demyelination by regulating the blood-brain barrier permeability. [PNAS 118(12): e2025944118](https://www.pnas.org/doi/10.1073/pnas.2025944118).
+
+Bartsch YC\*, Eschweiler S\*, Leliavski A\*, Lunding HB\*, Wagt S\*, Petry J, Lilienthal GM, et al. (2020) IgG Fc sialylation is regulated during the germinal center reaction following immunization with different adjuvants. [J Allergy Clin Immunol. 146(3):652–666.e11](https://linkinghub.elsevier.com/retrieve/pii/S0091-6749(20)30728-4). (\* equal contribution, alphabetic order)
+
+Dumbell R\*, Leliavski A\*, Matveeva O, Blaum C, Tsang AH, Oster H. (2016) Dissociation of Molecular and Endocrine Circadian Rhythms in Male Mice Lacking Bmal1 in the Adrenal Cortex. [Endocrinology. 157(11):4222–4233](https://academic.oup.com/endo/article/157/11/4222/2758373). (\* equal contribution)
+
+Leliavski A, Shostak A, Husse J, Oster H (2014) Impaired Glucocorticoid Production and Response to Stress in Arntl-Deficient Male Mice. [Endocrinology. 155(1):133–142](https://academic.oup.com/endo/article-abstract/155/1/133/2422490).
+
+------------------
+

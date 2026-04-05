@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Alexei Leliavski" />
+
+<meta name="date" content="2026-04-05" />
+
+<title>CV</title>
+
+<script src="site_libs/header-attrs-2.31/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">My Portfolio</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="cv.html">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">CV</h1>
+<h4 class="author">Alexei Leliavski</h4>
+<h4 class="date">2026-04-05</h4>
+
+</div>
+
+
+<div id="alexei-leliavski" class="section level1">
+<h1>Alexei Leliavski</h1>
+<p>Immunology | Cancer immunotherapy | Method development |
+Computational Biology</p>
+<div id="webaddress">
+<p><a href="alexei.leliavski@gmail.com">Email</a> |
+<a href="https://www.linkedin.com/in/alexei-leliavski/">LinkedIn</a> |
+<a href="https://github.com/leliavski/">Github</a></p>
+</div>
+<div id="expertise" class="section level2">
+<h2>Expertise</h2>
+<p>Translational research in academia (12+ years; PhD in life sciences)
+and industry (4+ year) with broad scientific expertise (immunology,
+endocrinology, oncology).</p>
+<p>Team coordination, leadership and mentoring in a matrix environment
+(up to 6 direct reports).</p>
+<p>Proven ability to manage complex projects from inception to
+completion in industry environment (design, planning, documentation,
+monitoring, reporting).</p>
+<p>Multiple cross-functional collaborations and stakeholder management
+across R&amp;D and preclinical departments to support a <a
+href="https://www.t-knife.com/news/press-releases/03-03-26/">successful
+CTA submission</a>; worked with external service providers and CROs.</p>
+<p>Broad biomedical expertise: - Cancer immunotherapy and cell therapy
+(TCR-T, CAR-T), tumor biology, TCR discovery and characterization, tumor
+target identification and prioritization; - B cell biology, antibody
+glycosylation, and engineering of antibody-based therapeutics; -
+Autoimmune disorders and neuroinflammation (multiple sclerosis); -
+Circadian rhythms and clocks, their role in regulation of adrenal
+function and behavioral stress responses.</p>
+<p>Strong <a
+href="https://scholar.google.de/citations?user=7vIaRk0AAAAJ&amp;hl=en&amp;oi=ao">publication
+record</a> (20+ research papers, 5 first-author papers; h-index = 17);
+expertise in technical writing (SOPs, work instructions) and
+reporting.</p>
+<p>Leading projects in preclinical research (TCR-T cell therapies
+against solid tumors), with focus on drug discovery and development in a
+biotech startup (<a href="docs/Leliavski_2022_AACR_poster.pdf">Leliavski
+et al. 2022 AACR</a>).</p>
+<p>Development of innovation strategies in industry’s R&amp;D settings;
+assay and technology development and optimization (cell-based and
+immunological assays).</p>
+<p>Extensive experience with immunological methods (flow cytometry,
+ELISA), molecular biology (qPCR, cloning) and gene editing (retroviral
+vectors, CRISPR/Cas9), biochemical methods, cell and tissue culture,
+live-cell imaging.</p>
+<p>Strong hands-on experience with in vivo experiments and animal models
+in immunology and inflammation, both in academic and industry settings
+(15+ years); mouse genetic models, immunizations, adoptive transfer,
+behavioral tests.</p>
+<p>Hands-on experience in data processing, statistical data analysis,
+visualization and interpretation, documentation and reporting (Prism,
+R/Bioconductor).</p>
+<p>Expertise in leveraging multi-omics data sets and generating
+data-driven insights for target identification and drug discovery
+projects (<a href="docs/Kraus_2025_ESGCT_poster.pdf">Kraus et al. 2025
+AACR</a>).</p>
+<p>Co-developed a company’s data management model and implemented a
+cloud-based data documentation platform across R&amp;D department.</p>
+<p>Solid understanding of regulatory requirements (a <a
+href="https://gmp-kurs.de/de/zertifikat-verifizieren/?code=6NDMND9FTP">GMP
+course certificate</a>); contributed to preparation and review of
+regulatory documents for CTA submissions.</p>
+</div>
+<div id="professional-experience" class="section level2">
+<h2>Professional experience</h2>
+<p><code>2022–2025</code> Team lead TCR discovery, T-knife GmbH, Berlin,
+Germany</p>
+<p><code>2021–2022</code> Senior scientist TCR discovery, T-knife GmbH,
+Berlin, Germany</p>
+<p><code>2018–2021</code> Postdoctoral fellow, Neuroinflammation &amp;
+Mucosal Immunology Group (Guru Krishnamoorthy), Max Planck Institute of
+Biochemistry, Munich, Germany</p>
+<p><code>2014–2018</code> Postdoctoral fellow, Immunology &amp;
+Glycoanalysis Group (Marc Ehlers), Institute of Nutrition Medicine,
+University of Lübeck, Germany</p>
+<p><code>2010–2014</code> Graduate researcher, Chronophysiology Group
+(Henrik Oster), Max Planck Institute of Biophysical Chemistry,
+Göttingen, and University of Lübeck, Germany</p>
+<p><code>2008–2009</code> Research assistant, Belarusian Research Center
+for Pediatric Oncology, Hematology &amp; Immunology, Minsk region,
+Belarus</p>
+</div>
+<div id="education" class="section level2">
+<h2>Education</h2>
+<p><code>2010–2014</code> PhD (Dr. rer. nat.) in biology (magna cum
+laude) University of Göttingen, Germany</p>
+<p><code>2002–2008</code> Diploma and M.Sc. degrees in immunology (cum
+laude) International Sakharov Environmental University, Minsk,
+Belarus</p>
+</div>
+<div id="professional-development" class="section level2">
+<h2>Professional development</h2>
+<p>GMP basics course, 2026</p>
+<p>Design of Experiments, Arizona State University, 2026</p>
+<p>AWS Cloud Practitioner Essentials, AWS, 2025</p>
+<p>Analytical Method Validation for Biologics, Biopharmaceuticals and
+Other Therapeutics, CfPIE, 2025</p>
+<p>Leadership and Management Skills Course for Junior Leaders, hfp
+consulting, 2022</p>
+<p>Foundations of Project Management, Google, 2021</p>
+<p>Drug Development Product Management Specialization, UC San Diego,
+2021</p>
+</div>
+<div id="selected-publications" class="section level2">
+<h2>Selected publications</h2>
+<p>Kraus G, Heichenko M, Immisch L, Khoenkhoen S, Kieback E, Leliavski
+A*, Poncette L* (2025) Discovery of novel solid tumor targets combining
+a multi-omics based computational workflow and in vivo immunogenicity
+screening in T-knife’s MyT platform. European Society of Gene and Cell
+Therapy (ESGCT) Congress. (* co-senior authors; <a
+href="https://www.t-knife.com/file.cfm/44/docs/t-knife_esgct_2025_poster_vf.pdf">poster</a>).</p>
+<p>Janakiraman M, Leliavski A, Varadarajulu J, Jenne D, Krishnamoorthy
+G. (2023) An engineered Fc fusion protein that targets antigen-specific
+T cells and autoantibodies mitigates autoimmune disease. <a
+href="https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02974-9">J
+Neuroinflammation, 20(1):291</a>.</p>
+<p>Poncette L, Kieback E, Oduro J, Dhamodaran A, Knackstedt L, Leliavski
+L, Blankenstein T (2023) Antigen recognizing construct that binds
+specific peptide with determinable affinity and T cell receptor having
+antigenic specificity for KRAS as well as corresponding nucleic acid
+sequence, vector, host cell, pharmaceutical composition and kit. <a
+href="https://patents.google.com/patent/WO2023139257A1/fr">Patent
+WO2023139257A1</a>.</p>
+<p>Leliavski A, Knackstedt L, Oduro J, Selck C, Salei N, Kraus G, et
+al. (2022) Generating optimal-affinity T cell receptors targeting the
+shared neoantigen KRASG12V using the humanized TCR transgenic mouse
+platform HuTCR. American Association for Cancer Research (AACR) Annual
+Meeting (<a
+href="https://www.t-knife.com/file.cfm/47/docs/t-knife_aacr2022_poster_3052.pdf">poster</a>).</p>
+<p>Na SY, Janakiraman M, Leliavski A, Krishnamoorthy G (2021) High salt
+diet suppresses autoimmune demyelination by regulating the blood-brain
+barrier permeability. <a
+href="https://www.pnas.org/doi/10.1073/pnas.2025944118">PNAS 118(12):
+e2025944118</a>.</p>
+<p>Bartsch YC*, Eschweiler S*, Leliavski A*, Lunding HB*, Wagt S*, Petry
+J, Lilienthal GM, et al. (2020) IgG Fc sialylation is regulated during
+the germinal center reaction following immunization with different
+adjuvants. <a
+href="https://linkinghub.elsevier.com/retrieve/pii/S0091-6749(20)30728-4">J
+Allergy Clin Immunol. 146(3):652–666.e11</a>. (* equal contribution,
+alphabetic order)</p>
+<p>Dumbell R*, Leliavski A*, Matveeva O, Blaum C, Tsang AH, Oster H.
+(2016) Dissociation of Molecular and Endocrine Circadian Rhythms in Male
+Mice Lacking Bmal1 in the Adrenal Cortex. <a
+href="https://academic.oup.com/endo/article/157/11/4222/2758373">Endocrinology.
+157(11):4222–4233</a>. (* equal contribution)</p>
+<p>Leliavski A, Shostak A, Husse J, Oster H (2014) Impaired
+Glucocorticoid Production and Response to Stress in Arntl-Deficient Male
+Mice. <a
+href="https://academic.oup.com/endo/article-abstract/155/1/133/2422490">Endocrinology.
+155(1):133–142</a>.</p>
+<hr />
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

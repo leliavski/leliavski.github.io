@@ -1,0 +1,13 @@
+name: "my-website"
+output_dir: "."        # Keeps files in the root for GitHub Pages
+navbar:
+  title: "My Portfolio"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+output:
+  html_document:
+    theme: cosmo       # You can use 'flatly', 'lumens', 'cosmo', etc.
+    highlight: textmate

@@ -1,0 +1,43 @@
+---
+title: "Bio"
+author: "Alexei Leliavski"
+date: "2026-04-05"
+output: html_document
+---
+
+## Biosketch
+
+
+Originally from Minsk, Belarus, I earned my degree in immunology from the International Sakharov Environmental University and subsequently worked as a research assistant at a clinical center specializing in pediatric oncology and immunology.
+
+I completed my doctoral research in [the laboratory of Henrik Oster](https://www.neurobio.uni-luebeck.de/en/chronobiology), first at the Max Planck Institute for Biophysical Chemistry in Göttingen and later at the University of Lübeck. My doctoral work centered on the circadian regulation of adrenal hormones and stress response pathways, with additional contributions to research on circadian clocks in T cells.
+
+During my postdoctoral research in [the lab of Marc Ehlers](https://www.uksh.de/Ernaehrungsmedizin_Luebeck/Wissenschaft/AG+Immunologie+und+Glykoanalytik.html) at UKSH I returned to immunology and studied B cell biology and the mechanisms of antibody glycosylation. Later, I continued my postdoctoral studies in the research group of Guru Krishnamoorthy at Max Planck Institute of Biochemistry near Munich, focusing on the role of autoreactive B cells and antibodies in murine models of multiple sclerosis.
+
+Most recently, I have transitioned to industry, where I led a research team within the R&D department of [T-knife Therapeutics](https://www.t-knife.com/about/), a biotechnology company developing next-generation TCR-T cell therapies targeting solid tumors. My team designed and optimized critical in vitro assays to assess the safety profile of the TCR-T cell product ahead of a clinical trial, contributing to a [successful Clinical Trial Authorization submission](https://www.t-knife.com/news/press-releases/03-03-26/). The team additionally established the company's first tumor target identification and prioritization pipeline and validated the immunogenicity of selected candidates in vivo using the MyT humanized platform ([Kraus et al. 2025 AACR](docs/Kraus_2025_ESGCT_poster.pdf)).
+
+
+Please refer to my [CV](CV.html) for more details.
+
+## Publications
+
+- [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Leliavski%20A%5BAuthor%5D)
+- [Google Scholar](https://scholar.google.de/citations?user=7vIaRk0AAAAJ&hl=en&oi=ao)
+- [My thesis](docs/Leliavski_2013_thesis.pdf)
+
+## Social
+
+- [Linkedin](https://www.linkedin.com/in/alexei-leliavski/)
+- [Github](https://github.com/leliavski/)
+- [Researchgate](https://www.researchgate.net/profile/Alexei_Leliavski)
+- [ORCID](https://orcid.org/0000-0003-0279-9226)
+
+## My projects
+
+Under construction.
+
+## Contact
+
+Please contact me via Linkedin or by email.
+My address is my name dot surname at gmail dot com.
+
