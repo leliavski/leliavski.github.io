@@ -17,7 +17,7 @@ During my postdoctoral research in [the lab of Marc Ehlers](https://www.uksh.de/
 Most recently, I have transitioned to industry, where I led a research team within the R&D department of [T-knife Therapeutics](https://www.t-knife.com/about/), a biotechnology company developing next-generation TCR-T cell therapies targeting solid tumors. My team designed and optimized critical in vitro assays to assess the safety profile of the TCR-T cell product ahead of a clinical trial, contributing to a [successful Clinical Trial Authorization submission](https://www.t-knife.com/news/press-releases/03-03-26/). The team additionally established the company's first tumor target identification and prioritization pipeline and validated the immunogenicity of selected candidates in vivo using the MyT humanized platform ([Kraus et al. 2025 AACR](docs/Kraus_2025_ESGCT_poster.pdf)).
 
 
-Please refer to my [CV](https://leliavski.github.io/cv.html) for more details.
+Please refer to my [CV](cv.html) for more details.
 
 #
 
