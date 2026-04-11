@@ -29,10 +29,13 @@ Proven ability to manage complex projects from inception to completion in indust
 Multiple cross-functional collaborations and stakeholder management across R&D and preclinical departments to support a [successful CTA submission](https://www.t-knife.com/news/press-releases/03-03-26/); worked with external service providers and CROs.
 
 Broad biomedical expertise:
-  - Cancer immunotherapy and cell therapy (TCR-T, CAR-T), tumor biology, TCR discovery and characterization, tumor target identification and prioritization;
-  - B cell biology, antibody glycosylation, and engineering of antibody-based therapeutics;
-  - Autoimmune disorders and neuroinflammation (multiple sclerosis);
-  - Circadian rhythms and clocks, their role in regulation of adrenal function and behavioral stress responses.
+
+- Cancer immunotherapy and cell therapy (TCR-T, CAR-T), tumor biology, TCR discovery and characterization, tumor target identification and prioritization
+
+- B cell biology, antibody glycosylation, and engineering of antibody-based therapeutics;
+- Autoimmune disorders and neuroinflammation (multiple sclerosis)
+
+- Circadian rhythms and clocks, their role in regulation of adrenal function and behavioral stress responses
 
 Strong [publication record](https://scholar.google.de/citations?user=7vIaRk0AAAAJ&hl=en&oi=ao) (20+ research papers, 5 first-author papers; h-index = 17); expertise in technical writing (SOPs, work instructions) and reporting.
 
@@ -56,27 +59,23 @@ Solid understanding of regulatory requirements (a [GMP course certificate](https
 
 ## Professional experience
 
-`2022–2025`	Team lead TCR discovery, T-knife GmbH, Berlin, Germany
-
-`2021–2022`	Senior scientist TCR discovery, T-knife GmbH, Berlin, Germany
-
-`2018–2021`	Postdoctoral fellow, Neuroinflammation & Mucosal Immunology Group (Guru Krishnamoorthy), Max Planck Institute of Biochemistry, Munich, Germany
-
-`2014–2018`	Postdoctoral fellow, Immunology & Glycoanalysis Group (Marc Ehlers), Institute of Nutrition Medicine, University of Lübeck, Germany
-
-`2010–2014`	Graduate researcher, Chronophysiology Group (Henrik Oster), Max Planck Institute of Biophysical Chemistry, Göttingen, and University of Lübeck, Germany
-
-`2008–2009`	Research assistant, Belarusian Research Center for Pediatric Oncology, Hematology & Immunology, Minsk region, Belarus
+| | | |
+|------|------|------|
+| 2022–2025 | Team lead TCR discovery | T-knife GmbH, Berlin, Germany |
+| 2021–2022 | Senior scientist TCR discovery | T-knife GmbH, Berlin, Germany |
+| 2018–2021 | Postdoctoral fellow | Neuroinflammation & Mucosal Immunology Group (Guru Krishnamoorthy), Max Planck Institute of Biochemistry, Munich, Germany |
+| 2014–2018 | Postdoctoral fellow | Immunology & Glycoanalysis Group (Marc Ehlers), Institute of Nutrition Medicine, University of Lübeck, Germany |
+| 2010–2014 | Graduate researcher | Chronophysiology Group (Henrik Oster), Max Planck Institute of Biophysical Chemistry, Göttingen, and University of Lübeck, Germany |
+| 2008–2009 | Research assistant | Belarusian Research Center for Pediatric Oncology, Hematology & Immunology, Minsk region, Belarus |
 
 #
 
 ## Education
 
-`2010–2014`	PhD (Dr. rer. nat.) in biology (magna cum laude)
-University of Göttingen, Germany
-
-`2002–2008`	Diploma and M.Sc. degrees in immunology (cum laude)
-International Sakharov Environmental University, Minsk, Belarus
+| | | |
+|--------|--------|--------|
+| 2010–2014 | PhD (Dr. rer. nat.) in biology (magna cum laude) | University of Göttingen, Germany |
+| 2002–2008 | Diploma and M.Sc. degrees in immunology (cum laude) | International Sakharov Environmental University, Minsk, Belarus |
 
 #
 
