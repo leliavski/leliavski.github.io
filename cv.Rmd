@@ -49,7 +49,7 @@ Strong hands-on experience with in vivo experiments and animal models in immunol
   
 Hands-on experience in data processing, statistical data analysis, visualization and interpretation, documentation and reporting (Prism, R/Bioconductor).
   
-Expertise in leveraging multi-omics data sets and generating data-driven insights for target identification and drug discovery projects ([Kraus et al. 2025 AACR](docs/Kraus_2025_ESGCT_poster.pdf)).
+Expertise in leveraging multi-omics data sets and generating data-driven insights for target identification and drug discovery projects ([Kraus et al. 2025 ESGCT](docs/Kraus_2025_ESGCT_poster.pdf)).
   
 Co-developed a company’s data management model and implemented a cloud-based data documentation platform across R&D department.
   
